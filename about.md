@@ -10,14 +10,16 @@ title: About
 * Data science
 
 
-## Setup
+## EDUCATION
+* M.A., Psychology (in progress), SungKyunKwan University, 2021 - present
+* B.A., Data Science, Hallym University, 2017 - 2020 
+* B.A., Psychology, Hallym University, 2017 - 2020 
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## SKILLS
+### Computrer Prorgramming
+* R
+* SPSS
+* Python
 
 Thanks for reading!
