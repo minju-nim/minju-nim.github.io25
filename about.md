@@ -3,11 +3,16 @@ layout: page
 title: About
 ---
 
+
+
 ## RESEARCH INTERESTS
 * Psychometrics
 * Structural Equation Models
 * Item Response Theory
-* Data science
+* Data Science
+
+
+
 
 
 ## EDUCATION
@@ -16,10 +21,15 @@ title: About
 * B.A., Psychology, Hallym University, 2017 - 2020 
 
 
+
+
+
 ## SKILLS
 ### Computrer Prorgramming
 * R
 * SPSS
 * Python
+
+
 
 Thanks for reading!
