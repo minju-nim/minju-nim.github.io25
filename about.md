@@ -4,17 +4,11 @@ title: About
 ---
 
 ## RESEARCH INTERESTS
-<p class="message">
 * Psychometrics
 * Structural Equation Models
 * Item Response Theory
-* Data sicence
-</p>
+* Data science
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-
-Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Setup
 
