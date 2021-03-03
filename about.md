@@ -10,6 +10,7 @@ title: About
 * Structural Equation Models
 * Item Response Theory
 * Data Science
+
 -----
 
 
@@ -18,6 +19,7 @@ title: About
 * M.A., Psychology (in progress), SungKyunKwan University, 2021 - present
 * B.A., Data Science, Hallym University, 2017 - 2020 
 * B.A., Psychology, Hallym University, 2017 - 2020 
+
 -----
 
 
@@ -28,6 +30,7 @@ title: About
 * R
 * SPSS
 * Python
+
 -----
 
 
